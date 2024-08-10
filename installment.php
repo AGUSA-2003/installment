@@ -2,7 +2,7 @@
 /*
 Plugin Name: پلاگین اقساطی محصولات اپل
 Plugin URI: http://installment.com
-Description: مدیریت محصولات اقساطی اپل
+Description:  مدیریت محصولات اقساطی اپل در کاشان
 Author: Alex Aghaghadiri Kashi
 Version: 1.0.0
 Author URI: http://github.com/AGUSA-2003
